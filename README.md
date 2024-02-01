@@ -15,8 +15,9 @@ BMI (Body Mass Index) Calculator is a web application that helps users calculate
 
 ## Technologies Used
 
-- React: JavaScript library for building user interfaces.
-- CSS: Styling for a visually appealing user interface.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ## How to Run the Project
 
