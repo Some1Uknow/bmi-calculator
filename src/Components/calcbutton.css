@@ -1,0 +1,45 @@
+#btn {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button {
+    padding: 5px;
+    margin: 5px;
+    width: 18em;
+    background: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    -webkit-backdrop-filter: blur(8.5px);
+    backdrop-filter: blur(8.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 8px;
+    box-shadow: rgba(213, 217, 217, 0.5) 0 2px 5px 0;
+    box-sizing: border-box;
+    color: #0f1111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Amazon Ember", sans-serif;
+    font-size: 13px;
+   line-height: 20px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    transition: 0.5s ease-in-out;
+    /* Removed duplicate padding property */
+  }
+  
+  /* Updated the selector to .button:hover */
+  button:hover {
+    background-color: #981566;
+  }
+  
+  /* Updated the selector to .button:focus */
+  button:focus {
+    border-color: #008296;
+    box-shadow: rgba(213, 217, 217, 0.5) 0 2px 5px 0;
+    outline: 0;
+  }
+  

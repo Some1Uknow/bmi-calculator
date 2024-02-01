@@ -1,0 +1,10 @@
+body {
+  color: white;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Amazon Ember", sans-serif;
+  background-image: linear-gradient(to top, #260968 0%, #8d0f69 100%);
+}

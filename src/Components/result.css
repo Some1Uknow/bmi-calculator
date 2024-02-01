@@ -1,0 +1,11 @@
+#res {
+    display: flex;
+    font-size: 1.2em;
+    justify-content: center;
+    text-align: center;
+}
+
+p {
+    font-size: 0.7em;
+    text-align: center;
+}

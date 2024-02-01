@@ -1,0 +1,29 @@
+#input-field {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    width: 15em;
+    margin: 3px;
+    
+}
+
+input {
+    border: 0;
+    border-bottom: 1px solid black;
+    margin: 3px;
+    background: none;
+}
+
+input::placeholder{
+    font-size: 10px;
+    color: black;
+    opacity: 0.5;
+}
+
+input:focus {
+    outline: 0;
+}
+
+span {
+    margin: 3px;
+}
